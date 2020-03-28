@@ -1,0 +1,7 @@
+// Rythmique électrique principale = refaire comme pour la soupe (créer un pattern par mesure)
+
+// Eventuellement refaire la basse
+
+// Refaire l'acoustique
+
+// 
