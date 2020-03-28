@@ -1,0 +1,27 @@
+							Baleine à bosse STRUCTURE
+
+
+Sonar 1 + Intro batterie
+
+Couplet 1
+
+Refrain 1
+
+Couplet 2
+
+Refrain 2
+
+Transition (Bridge / Interlude, finie par "envolée lyrique" avec puissance + break batterie stylé)
+
+Solo (chorus-like, disto sur guitare de Bobby) into refrain 3 (maybe ?)
+
+Outro
+
+<<<<<<< HEAD
+Sonar 2
+=======
+Sonar 2
+
+Ce monde cruel devenu poubelle
+YOLO
+>>>>>>> master
