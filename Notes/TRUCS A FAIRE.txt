@@ -1,7 +1,5 @@
-// Rythmique électrique principale = refaire comme pour la soupe (créer un pattern par mesure)
+// Faire un maxi pont
 
-// Eventuellement refaire la basse
+// Faire une basse pour les verse et le pont
 
-// Refaire l'acoustique
-
-// 
+// Refaire l'acoustique (facultatif)
